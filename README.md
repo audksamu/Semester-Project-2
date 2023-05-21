@@ -53,7 +53,7 @@ The Strapi project needs to be running so the main project can acces the Strapi 
 npm run develop
 ```
 
-Normally the strapi server will run om port 1337 and you can reach the admin page on [Link to Strapi localhost admin page](http://localhost:1337/admin/)
+Normally the strapi server will run om port 1337 and you can reach the admin page on [[Link to Strapi localhost admin page](http://localhost:1337/admin/)](http://localhost:1337/admin/)
 
 
 2. Clone the project repo:
