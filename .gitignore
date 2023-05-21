@@ -1,4 +1,11 @@
+############################
+# 
+############################
+
 .sass-cache/
 *.css.map
 *.sass.map
 *.scss.map
+
+
+/strapi-sp2-v4-main

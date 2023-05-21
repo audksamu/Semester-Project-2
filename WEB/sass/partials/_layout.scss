@@ -1,0 +1,24 @@
+:root {
+    --error-color: --bs-red;
+    --text-color: --bs-purple;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background-image: url("/img/back2.jpg");
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom:0;
+}
+
+/*.wrapper {
+    flex: 1 0 auto;
+}*/
+

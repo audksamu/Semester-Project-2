@@ -1,0 +1,33 @@
+.carousel-item {
+    background-size: cover;
+    background-position: center center;
+}
+
+.carousel-indicators li {
+    width: 15px;
+    height: 15px;
+    margin: 0 5px;
+    border-radius: 50%;
+}
+
+.carousel-inner {
+    max-height: 600px;
+}
+
+.carousel-indicators > li {
+    border-radius: 0% !important;
+    background-color: $light;
+    opacity: 1;
+    height: 2.34vw;
+    width: 2.34vw;
+  }
+
+  .carousel-indicators > li.active {
+    background-color: $primary;
+  }
+
+.card_body {
+    background-image: radial-gradient(circle, #E5E5E5, #F3F3F3, #ffffff);
+}
+
+

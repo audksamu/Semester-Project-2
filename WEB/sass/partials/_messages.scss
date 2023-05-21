@@ -1,0 +1,26 @@
+
+
+.message {
+    width: 100%;
+    padding: 1rem;
+    border: 1px solid grey;
+    color: var(--bs-purple);
+}
+
+.message.error {
+    border-color: var(--bs-red);
+    color: var(--bs-white);
+    background: var(--bs-red);
+}
+
+.message.warning {
+    border-color: var(--bs-warning);
+    color: var(--bs-white);
+    background: var(--bs-warning);
+}
+
+.message.success {
+    border-color: var(--bs-success);
+    color: var(--bs-white);
+    background: var(--bs-success);
+}
