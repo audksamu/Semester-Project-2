@@ -21,12 +21,12 @@ This project are using a Strapi project providet by Noroff.
 **Remark** The project where originaly build for the old version of the Strapi project, but you need to download the V4 version.
 [Noroff StrapiProject v4](https://github.com/NoroffFEU/strapi-sp2-v4)
 
-Se the projects README.md file for details.
+Se the Strapi projects README.md file for details.
 
+The Semester-Project-2 are a HTML,CSS,JS project using Botstrap and SASS
 
-
-- [React.js](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com)
+- [Sass(https://sass-lang.com/)
 
 ## Getting Started
 
@@ -56,7 +56,7 @@ npm run develop
 Normally the strapi server will run om port 1337 and you can reach the admin page on [[Link to Strapi localhost admin page](http://localhost:1337/admin/)](http://localhost:1337/admin/)
 
 
-2. Clone the project repo:
+3. Clone the project repo:
 
 ```bash
 git clone git@github.com:audksamu/Semester-project-2.git
