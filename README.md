@@ -18,7 +18,7 @@ You can add some bullet points if you'd like to:
 
 This project are using a Strapi project providet by Noroff.
 
-!Remark! The project where originaly build for the old version of the Strapi project, but you need to download the V4 version.
+**Remark** The project where originaly build for the old version of the Strapi project, but you need to download the V4 version.
 [Noroff StrapiProject v4](https://github.com/NoroffFEU/strapi-sp2-v4)
 
 Se the projects README.md file for details.
