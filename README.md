@@ -20,8 +20,8 @@ You can add some bullet points if you'd like to:
 
 This project are using a Strapi project providet by Noroff.
 
-**Remark** The project where originaly build for the old version of the Strapi project, but you need to download the V4 version.
-[Noroff StrapiProject v4](https://github.com/NoroffFEU/strapi-sp2-v4)
+**Remark** The project where originaly build for the old version of the Strapi project. There are a newer version of the Strapi project from Noroff, but this project has not been adapted to the new version.
+[Noroff StrapiProjecj](https://github.com/NoroffFEU/strapi-sp2)
 
 Se the Strapi projects README.md file for details.
 
@@ -34,11 +34,10 @@ The Semester-Project-2 are a HTML,CSS,JS project using Botstrap and SASS
 
 ### Installing
 
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
 
 1. Clone the strapiproject
 ```bash
-git clone git@github.com:NoroffFEU/strapi-sp2-v4.git
+git clone git@github.com:NoroffFEU/strapi-sp2.git
 ```
 
 2. Install Strapi project and it's dependencies
@@ -54,6 +53,10 @@ The Strapi project needs to be running so the main project can acces the Strapi 
 ```
 npm run develop
 ```
+During the build process you migth face problems with legacy hash algorithm that can be a litle cumberstone to overcome. ![0308010C Error](https://github.com/audksamu/Semester-Project-2/assets/61708040/31d431b7-4eff-4551-950c-60a774eb4284)
+This error are caused by older version of * *Webpack* * using an unsuported MD4 hashing algorithm. There are several strategies that can be used to overcome a problem like this. In production environment you should always seek to opdate your project to support more modern security algorithmes, but for testing purpose it will be easier with a little dirty workaround.
+To
+
 
 Normally the strapi server will run om port 1337 and you can reach the admin page on [[Link to Strapi localhost admin page](http://localhost:1337/admin/)](http://localhost:1337/admin/)
 
