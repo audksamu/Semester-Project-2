@@ -6,7 +6,7 @@ This project is a school project from my studies at the Noroff School of technol
 The website are build responsive with mobile-first in mind.
 Noroff has providet a Strapi API for populating the website.
 
-Details for the assignements can be found in this file : [Semester Project 2 - oppgave.pdf]()
+Details for the assignements can be found in this file : [Semester Project 2 - oppgave.pdf](./Semester%20Project%202%20-%20oppgave.pdf)
 
 ## Description
 
