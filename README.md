@@ -1,6 +1,6 @@
 # Semester Project 2 , Mountain Diva Shoes
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![Mountain Diva Shoes homepage](https://github.com/audksamu/Semester-Project-2/assets/61708040/d72ee972-10a4-4397-a8fa-850c2402ead3)
 
 A simple overview of the use/purpose of the project.
 
