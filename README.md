@@ -2,7 +2,9 @@
 
 ![Mountain Diva Shoes homepage](https://github.com/audksamu/Semester-Project-2/assets/61708040/d72ee972-10a4-4397-a8fa-850c2402ead3)
 
-A simple overview of the use/purpose of the project.
+This project is a school project from my studies at the Noroff School of technology and digital media. The project are a simple e-comerce website with both customer-facing and admin section.
+The website are build responsive with mobile-first in mind.
+Noroff has providet a Strapi API for populating the website.
 
 ## Description
 
