@@ -54,7 +54,7 @@ The Strapi project needs to be running so the main project can acces the Strapi 
 npm run develop
 ```
 During the build process you migth face problems with legacy hash algorithm that can be a litle cumberstone to overcome. ![0308010C Error](https://github.com/audksamu/Semester-Project-2/assets/61708040/31d431b7-4eff-4551-950c-60a774eb4284)
-This error are caused by older version of * *Webpack* * using an unsuported MD4 hashing algorithm. There are several strategies that can be used to overcome a problem like this. In production environment you should always seek to opdate your project to support more modern security algorithmes, but for testing purpose it will be easier with a little dirty workaround.
+This error are caused by older version of *Webpack* using an unsuported MD4 hashing algorithm. There are several strategies that can be used to overcome a problem like this. In production environment you should always seek to opdate your project to support more modern security algorithmes, but for testing purpose it will be easier with a little dirty workaround.
 To
 
 
