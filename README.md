@@ -32,8 +32,9 @@ The Semester-Project-2 are a HTML,CSS,JS project using Botstrap and SASS
 
 ## Getting Started
 
-### Installing
+You must first clone and run the Noroff Strapi project that will serve as backend server for the **Mountain Diva Shoes** website
 
+### Installing the Noroff Strapi Project
 
 1. Clone the strapiproject
 ```bash
@@ -48,7 +49,7 @@ You might get errors informing about vulnerabilities du to dependencies of old v
 If so, pay attention to the output from the install command and you will see what you needs to do to fix this.
 Run neccesary audit fix commands to solve this.
 
-2. Run Strapi
+3. Run Strapi Project
 
 The Strapi project needs to be running so the main project can acces the Strapi server on local host.
 ```
@@ -68,30 +69,23 @@ to this:
 *"build": "SET NODE_OPTIONS=--openssl-legacy-provider && strapi build",*
 ```
 
-Normally the strapi server will run om port 1337 and you can reach the admin page on [[Link to Strapi localhost admin page](http://localhost:1337/admin/)](http://localhost:1337/admin/)
+Normally the strapi server will run om port 1337 and you can reach the admin page on [http://localhost:1337/admin/](http://localhost:1337/admin/)
 
 
-3. Clone the project repo:
+### Cloning and running Mountain Diva Shoes
+
+When the Strapi project are running, you need to clone the **Mountain Diva Shoes** repo and run the project.
+
+1. Clone the project repo:
 
 ```bash
 git clone git@github.com:audksamu/Semester-project-2.git
 ```
+The project are a HTML, CSS, JS project so it's easiest to use your favorite developer tool to go live with the web site at localhost.
+If you are using "Visual Studio Code" you can use the *Live Server Plugin*. You will also need the *Live Sass Compiler* plugin to ensurte Sass chenges are beeing automatically compiled.
 
-2. Install the dependencies:
+![Visual Studio Code plugins](https://github.com/audksamu/Semester-Project-2/assets/61708040/9de48b49-fe19-4192-8dd0-679f103f1537)
 
-```
-npm install
-```
-
-### Running
-
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
-```bash
-npm run start
-```
 
 ## Contributing
 
