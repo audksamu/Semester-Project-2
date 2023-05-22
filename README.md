@@ -65,9 +65,9 @@ Change this:
 
 to this:
 
-* ```bash
+```bash
 "build": "SET NODE_OPTIONS=--openssl-legacy-provider && strapi build",
-``` *
+```
 
 Normally the strapi server will run om port 1337 and you can reach the admin page on [http://localhost:1337/admin/](http://localhost:1337/admin/)
 
@@ -89,7 +89,7 @@ If you are using "Visual Studio Code" you can use the *Live Server Plugin*. You 
 
 ## Contributing
 
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+This is a completed school project. and the project will therefore not be developed further.
 
 ## Contact
 
@@ -98,10 +98,6 @@ Feel free to contact me at LinkedIn or by E-mail
 [My Email](kristinswork900@gmail.com)
 
 [My LinkedIn page](linkedin.com/in/aud-kristin-s-996269192)
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
 
 ## Acknowledgments
 
