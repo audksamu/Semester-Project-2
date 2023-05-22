@@ -65,9 +65,9 @@ Change this:
 
 to this:
 
-```bash
-*"build": "SET NODE_OPTIONS=--openssl-legacy-provider && strapi build",*
-```
+* ```bash
+"build": "SET NODE_OPTIONS=--openssl-legacy-provider && strapi build",
+``` *
 
 Normally the strapi server will run om port 1337 and you can reach the admin page on [http://localhost:1337/admin/](http://localhost:1337/admin/)
 
