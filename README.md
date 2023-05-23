@@ -38,7 +38,7 @@ The NAV menus has four options
 - Login (Link to admin login page)
 
 ### Home
-Landing page with hero banner and list of featured products with products image, price and buttion for details. Click the *Details button* on any products to get to the Products Details page
+Landing page with hero banner and list of featured products with products image, price and button for details. Click the *Details button* on any products to get to the Products Details page
 
 ![image](https://github.com/audksamu/Semester-Project-2/assets/61708040/b5b4ebdf-adf5-4acb-9db0-0c435e764642)
 
