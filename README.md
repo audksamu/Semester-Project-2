@@ -78,7 +78,7 @@ There are also a *Logout* button at top of the page.
 This project are using a Strapi project providet by Noroff as backend server.
 
 **Remark** The project where originaly build for the old version of the Strapi project. There are a newer version of the Strapi project from Noroff, but this project has not been adapted to the new version.
-[Noroff StrapiProjecj](https://github.com/NoroffFEU/strapi-sp2)
+[Noroff Strapi Project](https://github.com/NoroffFEU/strapi-sp2)
 
 Se the Strapi projects README.md file for details.
 
