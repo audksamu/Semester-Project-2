@@ -28,7 +28,7 @@ Further down under the Hero Banner there will be a list off all of the shops fea
 
 The webpage has a header presenting the Company logo and company name (linked to "/") , a Responsive NAV bar and a shopping cart icon linked to the shopping cart.
 
-![Web page header](https://github.com/audksamu/Semester-Project-2/assets/61708040/c7678b80-4259-4dca-9ade-64f1b36e4d69)
+![Mountain diva website landing page](https://github.com/audksamu/Semester-Project-2/assets/61708040/c7678b80-4259-4dca-9ade-64f1b36e4d69)
 
 The NAV menus has four options
 
@@ -39,6 +39,9 @@ The NAV menus has four options
 
 ### Home
 Landing page with hero banner and list of featured products with products image, proce and buttion for details. Click any products to get to the Products Details page
+
+![image](https://github.com/audksamu/Semester-Project-2/assets/61708040/b5b4ebdf-adf5-4acb-9db0-0c435e764642)
+
 
 ### Products
 Products page lists all available products with products image, price and a button for details page.
