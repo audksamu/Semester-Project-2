@@ -24,6 +24,7 @@ The Hero banner can be administrated by the Strapi Project administrator. (Singl
 Further down under the Hero Banner there will be a list off all of the shops featured products. Marking products as featured are beeing done in the admin section.
 
 The webpage has a header presenting the Company logo and name (linked to "/") , a Responsive NAV bar and a shopping cart icon linked to the shopping cart.
+
 ![Web page header](https://github.com/audksamu/Semester-Project-2/assets/61708040/c7678b80-4259-4dca-9ade-64f1b36e4d69)
 
 The NAV menus has four options
