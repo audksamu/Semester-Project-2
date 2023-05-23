@@ -160,6 +160,7 @@ All images uploaded to the Strapi project are found in the Media library.
 ![Strapi management](https://github.com/audksamu/Semester-Project-2/assets/61708040/1e63370b-dee0-4fda-94f8-2ad635b673ee)
 
 Be aware that the Strapi Project re based on a older version of Strapi. It is possible to upgrade Strapi to a newer version, but it will also require some changes in the frontend project.
+Read more about strapi here : https://strapi.io/
 
 
 
