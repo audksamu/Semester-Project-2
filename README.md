@@ -14,7 +14,10 @@ Details for the assignements can be found in this file : [Semester Project 2 - o
 
 The website have a customer facing part where the users can browse through the products, get more details about he products and adding/removing products to the cart.
 In this assignement there is not includet any checkout for the user as this was not in the scope of the project.
-When the user opens the website they will be presented with a landingpage 
+When the user opens the website they will be presented to a landingpage with a hero banner where the image in the hero banner beeing fetch from home route in the Strapi API.
+The Hero banner can be administrated by the Strapi Project administrator. (Single types - Home )
+![Strapi Project - Admin page, Single Types - Home](https://github.com/audksamu/Semester-Project-2/assets/61708040/0ad96467-5cee-4e49-a19e-5977e1a4a454)
+
 
 - List item 1
 - List item 2
