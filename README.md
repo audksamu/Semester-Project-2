@@ -77,9 +77,6 @@ At this page the administrator can edit, delete and add products.
 There are also a *Logout* button at top of the page.
 
 
-
-
-
 ## Built With
 
 This project are using a Strapi project providet by Noroff as backend server.
@@ -149,6 +146,22 @@ The project are a HTML, CSS, JS project so it's easiest to use your favorite dev
 If you are using "Visual Studio Code" you can use the *Live Server Plugin*. You will also need the *Live Sass Compiler* plugin to ensurte Sass chenges are beeing automatically compiled.
 
 ![Visual Studio Code plugins](https://github.com/audksamu/Semester-Project-2/assets/61708040/9de48b49-fe19-4192-8dd0-679f103f1537)
+
+## About the Strapi Project
+The Strapi project are providet by Noroff. When you install the project it will be without any data, so you need to login to the adminpage at http://localhost:1337/admin with the default username and Password. (admin@admin.com , Pass1234 )
+
+The Project has two Collection Types , Products and Users.
+Products are the API roye used to get / change informastion about products.
+All products beeing addet from the front end adminpage will be added underneath products.
+The user collection type contains all users addet. Users can only be managed from the Strapi admin page as there are not implementet any user management in the frontend.
+There are also one Single Types named Home. It's where the hero banner are stored and the frontend fetces it from.
+All images uploaded to the Strapi project are found in the Media library.
+
+![Strapi management](https://github.com/audksamu/Semester-Project-2/assets/61708040/1e63370b-dee0-4fda-94f8-2ad635b673ee)
+
+
+
+
 
 
 ## Contributing
