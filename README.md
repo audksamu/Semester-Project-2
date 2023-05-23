@@ -1,6 +1,8 @@
 # Semester Project 2 , Mountain Diva Shoes
 
 ![Mountain Diva Shoes homepage](https://github.com/audksamu/Semester-Project-2/assets/61708040/d72ee972-10a4-4397-a8fa-850c2402ead3)
+![Home_-_Mountain_Diva_Shoes_–_Personlig_–_Microsoft__Edge_2023-05-23_13-37-41_AdobeExpress](https://github.com/audksamu/Semester-Project-2/assets/61708040/58224caf-7757-4399-8fe8-57d860a9e65f)
+
 
 This project is a school project from my studies at the Noroff School of technology and digital media. The project are a simple e-comerce website with both customer-facing and admin section.
 The website are build responsive with mobile-first in mind.
