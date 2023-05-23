@@ -12,9 +12,9 @@ Details for the assignements can be found in this file : [Semester Project 2 - o
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
-
-You can add some bullet points if you'd like to:
+The website have a customer facing part where the users can browse through the products, get more details about he products and adding/removing products to the cart.
+In this assignement there is not includet any checkout for the user as this was not in the scope of the project.
+When the user opens the website they will be presented with a landingpage 
 
 - List item 1
 - List item 2
