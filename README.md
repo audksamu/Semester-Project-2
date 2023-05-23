@@ -12,16 +12,35 @@ Details for the assignements can be found in this file : [Semester Project 2 - o
 
 ## Description
 
+General design for the website are a 1-3 column layout where there are one columns in mobile view and three columns for wider screens.
 The website have a customer facing part where the users can browse through the products, get more details about he products and adding/removing products to the cart.
 In this assignement there is not includet any checkout for the user as this was not in the scope of the project.
+There are also a administration section for the administrators to manage products.
+
 When the user opens the website they will be presented to a landingpage with a hero banner where the image in the hero banner beeing fetch from home route in the Strapi API.
 The Hero banner can be administrated by the Strapi Project administrator. (Single types - Home )
 ![Strapi Project - Admin page, Single Types - Home](https://github.com/audksamu/Semester-Project-2/assets/61708040/0ad96467-5cee-4e49-a19e-5977e1a4a454)
 
+Further down under the Hero Banner there will be a list off all of the shops featured products. Marking products as featured are beeing done in the admin section.
 
-- List item 1
-- List item 2
-- List item 3
+The webpage has a header presenting the Company logo and name (linked to "/") , a Responsive NAV bar and a shopping cart icon linked to the shopping cart.
+![Web page header](https://github.com/audksamu/Semester-Project-2/assets/61708040/c7678b80-4259-4dca-9ade-64f1b36e4d69)
+
+The NAV menus has four options
+
+- Home (Link to landing page)
+- Products (Link to products page)
+- Shopping cart (Link to shopping cart. Same as the shopping cart symbol)
+- Login (Link to admin login page)
+
+### Home
+Landing page with hero banner and list of featured products with products image, proce and buttion for details. Click any products to get to the Products Details page
+
+### Products
+Products page lists all available products with products image, price and a button for details page.
+There is also a search field where you can search for poducts. The search function will search in both products title and descriptions field.
+
+
 
 ## Built With
 
