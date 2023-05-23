@@ -40,6 +40,21 @@ Landing page with hero banner and list of featured products with products image,
 ### Products
 Products page lists all available products with products image, price and a button for details page.
 There is also a search field where you can search for poducts. The search function will search in both products title and descriptions field.
+![Products page](https://github.com/audksamu/Semester-Project-2/assets/61708040/a4239a75-f622-4753-b63a-45460fcddf07)
+
+
+### Shopping cart
+The shopping cart displays all products in the cart, their price and total price. It's also possible see the products details page and from there remove products from the cart. The shopping cart has two buttons *Continue shopping* and *Clear cart* . 
+There is no checkout button since that was not in the scope for this assignement.
+![Shopping cart](https://github.com/audksamu/Semester-Project-2/assets/61708040/38545ff8-6bbd-4a2a-8211-f6a75c78aec4)
+
+
+### Product details
+Home page, Products page and Shopping cart all calls the same Products details function.
+This is a **modal** poping up when clicking the details button. The modal shows the product image, details about the product, product price and has two buttons.
+One cart button that will add / remove products to the shopping cart. This button has text that changes depending on if the product already in the cart or not.
+The other button are a close button.
+![Products details modal](https://github.com/audksamu/Semester-Project-2/assets/61708040/c8855bc5-d200-4818-825a-c4b388eae08b)
 
 
 
