@@ -89,7 +89,7 @@ Se the Strapi projects README.md file for details.
 The Semester-Project-2 are a HTML,CSS,JS project using Botstrap and SASS
 
 - [Bootstrap](https://getbootstrap.com)
-- [Sass(https://sass-lang.com/)
+- [Sass](https://sass-lang.com/)
 
 ## Getting Started
 
