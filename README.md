@@ -63,6 +63,21 @@ The other button are a close button.
 
 ![Products details modal](https://github.com/audksamu/Semester-Project-2/assets/61708040/c8855bc5-d200-4818-825a-c4b388eae08b)
 
+### Login
+Loginpage wher user enters username and password to login to the admin page where the user can manage the prducts in the shop.
+The users are managed in the Strapi instance by the strapi administrator, users can't be managed from **Mountain Diva Shoes** web page.
+
+![Login page](https://github.com/audksamu/Semester-Project-2/assets/61708040/26e95e66-9395-4e2d-bf0b-97d40b10b76c)
+
+After a successful login the admin will be presented to the products manager page.
+
+![Products manage page](https://github.com/audksamu/Semester-Project-2/assets/61708040/055dfdf0-5e3e-4de9-8f32-1ed13822a796)
+
+At this page the administrator can edit, delete and add products.
+There are also a *Logout* button at top of the page.
+
+
+
 
 
 ## Built With
