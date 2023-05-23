@@ -45,7 +45,7 @@ There is also a search field where you can search for poducts. The search functi
 
 ## Built With
 
-This project are using a Strapi project providet by Noroff.
+This project are using a Strapi project providet by Noroff as backend server.
 
 **Remark** The project where originaly build for the old version of the Strapi project. There are a newer version of the Strapi project from Noroff, but this project has not been adapted to the new version.
 [Noroff StrapiProjecj](https://github.com/NoroffFEU/strapi-sp2)
