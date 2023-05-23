@@ -1,8 +1,7 @@
 # Semester Project 2 , Mountain Diva Shoes
 
 
-![Home_-_Mountain_Diva_Shoes_–_Personlig_–_Microsoft__Edge_2023-05-23_13-37-41_AdobeExpress](https://github.com/audksamu/Semester-Project-2/assets/61708040/58224caf-7757-4399-8fe8-57d860a9e65f)
-![Home_-_Mountain_Diva_Shoes_–_Large](https://github.com/audksamu/Semester-Project-2/assets/61708040/989ae86b-42f9-4b88-b72a-4d068deaec9a)
+![Mountain_Diva_Shoes web page as a GIF](https://github.com/audksamu/Semester-Project-2/assets/61708040/989ae86b-42f9-4b88-b72a-4d068deaec9a)
 
 
 
