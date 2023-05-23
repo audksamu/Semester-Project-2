@@ -176,6 +176,4 @@ Feel free to contact me at LinkedIn or by E-mail
 
 [My LinkedIn page](linkedin.com/in/aud-kristin-s-996269192)
 
-## Acknowledgments
 
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
