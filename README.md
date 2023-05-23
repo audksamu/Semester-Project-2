@@ -47,15 +47,13 @@ Landing page with hero banner and list of featured products with products image,
 Products page lists all available products with products image, price and a button for details page.
 There is also a search field where you can search for poducts. The search function will search in both products title and descriptions field.
 
-![Products page](https://github.com/audksamu/Semester-Project-2/assets/61708040/a4239a75-f622-4753-b63a-45460fcddf07)
-
+![Products page](https://github.com/audksamu/Semester-Project-2/assets/61708040/21596d48-589d-4487-b72f-4ef6a54d145a)
 
 ### Shopping cart
 The shopping cart displays all products in the cart, their price and total price. It's also possible see the products details page and from there remove products from the cart. The shopping cart has two buttons *Continue shopping* and *Clear cart* . 
 There is no checkout button since that was not in the scope for this assignement.
 
 ![Shopping cart](https://github.com/audksamu/Semester-Project-2/assets/61708040/38545ff8-6bbd-4a2a-8211-f6a75c78aec4)
-
 
 ### Product details
 Home page, Products page and Shopping cart all calls the same Products details function.
